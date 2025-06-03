@@ -2,8 +2,6 @@ import streamlit as st
 import pickle
 import numpy as np
 from PIL import Image
-import cv2
-import numba
 import matplotlib.pyplot as plt
 from matplotlib.colors import hsv_to_rgb
 import io
